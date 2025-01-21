@@ -13,3 +13,6 @@ By placing the green-white tile, the user receives +1000 points multiplied by th
 Easy: 1.0 - 4 different colors
 Medium: 1.2 - 5 different colors
 Hard: 1.4 - 6 different colors
+
+![brick](https://github.com/user-attachments/assets/0fab51a1-67de-4f9d-b268-861059206622)
+![brick2](https://github.com/user-attachments/assets/4b8a4232-cf57-4329-9604-be98081ebaf6)
