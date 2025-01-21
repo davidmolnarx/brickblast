@@ -1,0 +1,81 @@
+#gamearea{
+    width: 800px;
+    height: 600px;
+    background-color: #efd5a6;
+    margin: 0 auto;
+    position: relative;
+}
+
+#buttonarea{
+    width: 800px;
+    height: 80px;
+    background-color: #91bdde;
+    margin: 20px auto;
+    position: relative;
+}
+
+#gameovertext{
+    position : relative;
+    margin : 27px auto;
+    color : white;
+    font-size : 40px;
+    text-align: center;
+}
+
+#winnertext{
+    position : relative;
+    margin : 27px auto;
+    color : white;
+    font-size : 40px;
+    text-align: center;
+}
+
+.button{
+    width: 100px;
+    height: 30px;
+    margin: 25px 10px;
+}
+
+#score{
+    font-size : 37px;
+    position: absolute;
+    align-self: flex-end;
+    top: 20px;
+    left: 570px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#scorearea{
+    margin: 0px;
+    top: 90px;
+    position: absolute;
+    background-color: #91bdde;
+    padding: 20px;
+    width: 240px;
+}
+
+#ranklist{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+#namelabel{
+    font-size: 20px;
+}
+
+#scores{
+    padding-top: 20px;
+    text-align: center;
+}
+
+#sendbutton{
+margin-left: 70px;
+}
+
+#timer{
+    padding-left: 20px;
+    font-size: 18px;
+}
